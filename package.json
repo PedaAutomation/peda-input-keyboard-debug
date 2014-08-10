@@ -1,0 +1,13 @@
+{
+  "name": "peda-input-keyboard-debug",
+  "description": "Use Keyboard input as debugging input for Peda",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": {
+    "name": "Julius Möller",
+    "email": "the.porenta@web.de"
+  },
+  "dependencies": {
+    "coffee-script": "1.7.1",    
+  }
+}
